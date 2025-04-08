@@ -6,13 +6,19 @@ This SQL project analyzes food delivery data to derive actionable business insig
 # Dataset
 The dataset contains a single orders table with the following columns:
 
-1. Order_id
-2. Customer_code
-3. Placed_at
-4. Restaurant_id
-5. Cuisine
-6. Order_status
-7. Promo_code_Name
+1️⃣	Order_id
+
+2️⃣	Customer_code
+
+3️⃣	Placed_at
+
+4️⃣	Restaurant_id
+
+5️⃣	Cuisine
+
+6️⃣	Order_status
+
+7️⃣Promo_code_Name
    
 All data is simulated and covers various cuisines, promo usage, and customer behaviors across multiple cities.
 
@@ -32,13 +38,20 @@ All data is simulated and covers various cuisines, promo usage, and customer beh
 7️⃣	% of users organically acquired in Jan 2025 (without a promo code)
 
 # Tools used
-MySQL
-SQL
+1️⃣ SQL
+
+2️⃣	MySQL
 
 # Learnings
 
-Use of CTEs, ROW_NUMBER(), WINDOW FUNCTIONS
-Conditional Aggregation
-Temporal Filtering (based on GETDATE()/curdate())
-Real-world business thinking in SQL
-Key metrics for Food Delivery Business
+1️⃣ Use of CTEs, ROW_NUMBER(), WINDOW FUNCTIONS
+
+2️⃣	Conditional Aggregation
+
+3️⃣	Temporal Filtering (based on GETDATE()/curdate())
+
+4️⃣	Real-world business thinking in SQL
+
+5️⃣	Key Metrics for Food Delivery Business
+
+
